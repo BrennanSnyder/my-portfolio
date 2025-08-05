@@ -58,7 +58,7 @@ function App() {
       {/* Golf Rewards App */}
       <div className="p-4 border rounded shadow-sm bg-blue-50">
         <h4 className="font-bold mb-2">Golf Rewards App (In Progress)</h4>
-        <p className="mb-2">Flutter + Firebase app for managing points and rewards at a golf course.</p>
+        <p className="mb-2">React + Firebase app for managing points and rewards at a golf course.</p>
         <img
           src="/golf-app.png"
           alt="Golf Rewards App"
@@ -103,11 +103,12 @@ function App() {
             <h3 className="text-2xl font-semibold mb-4">🧰 Skills</h3>
             <ul className="grid grid-cols-2 md:grid-cols-3 gap-4 list-disc list-inside text-gray-700">
               <li>Python, C, JavaScript, OCaml</li>
-              <li>Java, Dart, Assembly, SQL, R</li>
-              <li>React, Tailwind CSS, Firebase, Flutter</li>
+              <li>Java, Assembly, SQL, R</li>
+              <li>React, Tailwind CSS, Firebase</li>
               <li>Git, VS Code, Linux, Docker</li>
               <li>Data Structures & Algorithms</li>
               <li>Memory Management, Systems Programming</li>
+              <li>Object-Oriented Programming (OOP)</li>
             </ul>
           </section>
         )}
