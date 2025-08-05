@@ -109,6 +109,7 @@ function App() {
               <li>Data Structures & Algorithms</li>
               <li>Memory Management, Systems Programming</li>
               <li>Object-Oriented Programming (OOP)</li>
+              <li>Microsoft Office, G Suite</li>
             </ul>
           </section>
         )}
